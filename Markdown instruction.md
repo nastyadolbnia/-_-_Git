@@ -43,3 +43,8 @@ git branch
 ```sh
 git branch имя ветки
 ```
+
+Создание новой ветки
+```sh
+git branch имя ветки
+```
