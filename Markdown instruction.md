@@ -41,10 +41,11 @@ git branch
 
 Переключение между ветками
 ```sh
-git branch имя ветки
+git checkout branch имя ветки
 ```
 
 Создание новой ветки
 ```sh
 git branch имя ветки
 ```
+
