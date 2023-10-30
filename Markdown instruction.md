@@ -47,6 +47,7 @@ git checkout branch имя ветки
 git branch имя ветки
 ```
 
+
 ### Список задач
 
 - [ ] Задача №1
@@ -55,3 +56,11 @@ git branch имя ветки
 ### Ссылки типа сносок
 
 Чтобы сделать сноски нужно:
+
+### Ссылки типа сносок в Markdown
+
+I get 10 times more traffic from [Google][1]
+
+[1]: http://google.com/
+
+
